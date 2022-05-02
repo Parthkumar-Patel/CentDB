@@ -81,11 +81,11 @@ In this project, we build a simple centralized database management system (CentD
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Parthp1810/Heart-Condition-Recognition-ML.git
+   git clone https://github.com/Parthp1810/CentDB.git
    ```
 2. Change directory to the folder
    ```sh
-   cd Heart-Condition-Recognition-ML
+   cd CentDB
    ```
 3. then open Project
 4. Run and Enjoy
