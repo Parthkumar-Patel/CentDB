@@ -81,7 +81,7 @@ In this project, we build a simple centralized database management system (CentD
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Parthkumar-Patel/CentDB.git
+   git clone https://github.com/Patel-Parthkumar/CentDB.git
    ```
 2. Change directory to the folder
    ```sh
